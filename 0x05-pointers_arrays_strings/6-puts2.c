@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - prints one char out 2 by 2 
+ * puts2 - prints one char out 2 by 2
  * @str: chain to be printed
  */
 void puts2(char *str)
